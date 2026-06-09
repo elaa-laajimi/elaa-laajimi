@@ -1,13 +1,13 @@
-## Hi there 👋
-# Bonjour 👋 Je suis Elaa Laajimi
 
-🎓 Étudiante en Business Computing à l'ISG Tunis
+# Bonjour ! Je suis Elaa Ajimi
 
-💻 Passionnée par le développement web, le développement logiciel et les nouvelles technologies.
+Étudiante en Business Computing à l'ISG Tunis
+
+ Passionnée par le développement web, le développement logiciel et les nouvelles technologies.
 
 ---
 
-## 🚀 Compétences Techniques
+##  Compétences Techniques
 
 ### Langages
 - Python
@@ -24,7 +24,7 @@
 
 ---
 
-## 📚 Projets
+##  Projets
 
 ### Système de Gestion de Bibliothèque
 Application console développée en C permettant la gestion des livres, emprunts et retours.
@@ -40,7 +40,7 @@ Création d'une boutique en ligne avec WordPress et WooCommerce.
 
 ---
 
-## 🌍 Langues
+##  Langues
 
 - Arabe : Natif
 - Français : Courant
@@ -49,7 +49,7 @@ Création d'une boutique en ligne avec WordPress et WooCommerce.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn :https://www.linkedin.com/in/elaa-laajimi-41302a413
 - Email : elaaajimi20@gmail.com
